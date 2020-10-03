@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutor", "Tutor\Tutor.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeToBurn", "TimeToBurn\TimeToBurn.csproj", "{EB3AE834-0AC2-4D8A-A4EF-BFC65CAA3B58}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.1_SumOf3", "SumOf3\3.1_SumOf3.csproj", "{679C6FBC-849D-4160-B9A0-E48AC9795A84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EB3AE834-0AC2-4D8A-A4EF-BFC65CAA3B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB3AE834-0AC2-4D8A-A4EF-BFC65CAA3B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB3AE834-0AC2-4D8A-A4EF-BFC65CAA3B58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679C6FBC-849D-4160-B9A0-E48AC9795A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679C6FBC-849D-4160-B9A0-E48AC9795A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679C6FBC-849D-4160-B9A0-E48AC9795A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679C6FBC-849D-4160-B9A0-E48AC9795A84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
